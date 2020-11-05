@@ -13,7 +13,7 @@ public class AdvancedAstrology {
     public static void printSpaces(int number) {
         int i = 0;
         while(i < number) {
-            System.out.println();
+            System.out.println("");
             i++;
         }
     }
